@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "a712e9ab6f221161f09a8f4ce6f8a9cbb9e8c4b76e1e07afa09060c1a38fb540",
-    "signature": "ed25519:q9nP5jWkUXf7s5erE79f+lw1gj2lPmTL4ccFiqhlcgHVKB1PwToj7vvRkOZPZJ8cC0Dr3DuuKscwYThoUSuGAQ==",
+    "version": 3,
+    "sha256": "07c38ad64d9a24ad24674643dacb862c1e4ee30ade57c6e1a54280eee28df4b5",
+    "signature": "ed25519:sO1uZla5M9fb9j6xoWDWx98SPKDLPMUjd4kA4meWweFzOJsroX80JwoDKHZ7XqSo8HXn1FUgRzwdCnHBKUWFCg==",
     "bytes": 1003,
-    "published_at": "2026-11-10T13:48:46+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/vatcalc-app-data@d0c8577/vatcalc/v2.json"
+    "published_at": "2026-11-10T13:53:04+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/vatcalc-app-data@0f67263/vatcalc/v3.json"
 }
