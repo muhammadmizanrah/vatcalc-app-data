@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "sha256": "817f1c0d776e9657c6ad87d0aeef692b77c0813eac6181c61fa3d54383bc6151",
+    "signature": "ed25519:M5oeHTve6RF/L6X7fUPx4D7DWL3B2Wywba7O/ve+R3/lIagdw2W6h+5bZr61r4eAMfzMMvdYePgogdhwEK2qCQ==",
+    "bytes": 832,
+    "published_at": "2026-11-10T13:48:02+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/vatcalc-app-data@9eca058/vatcalc/v1.json"
+}
