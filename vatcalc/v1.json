@@ -1,0 +1,30 @@
+{
+    "schema": 1,
+    "type": "vatcalc_config",
+    "app": "vatcalc",
+    "version": 1,
+    "generated_at": "2026-11-10T13:47:57+00:00",
+    "config": {
+        "min_android_build": 0,
+        "min_ios_build": 0,
+        "update_url_android": "https://play.google.com/store/apps/details?id=vat.calculator.tax",
+        "update_url_ios": "",
+        "maintenance": false,
+        "maintenance_en": "",
+        "notice_enabled": false,
+        "notice_key": "",
+        "notice_en": "",
+        "notice_url": "",
+        "promo_enabled": false,
+        "promo_key": "",
+        "promo_title_en": "",
+        "promo_body_en": "",
+        "promo_button_en": "",
+        "promo_url": "",
+        "rates_version": 0,
+        "rates_url": "",
+        "rates_sha256": "",
+        "rates_updated": "",
+        "rating_enabled": true
+    }
+}
